@@ -1,0 +1,16 @@
+body{
+    background-color: #1c1c1c;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+.clock {
+    width: 50%;
+    font-family: Georgia;
+    color: white;
+    font-size: 100px;
+  }
+  .day{
+    color: white;
+    font-size: 100px;
+  }
